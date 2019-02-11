@@ -15,7 +15,7 @@ function johnLennonFacts(facts){
   while (i < facts.length){
   var random = facts[i++] + "!!!";
   newFacts.push(random)
-  } return newFacts
+  } 
 }
 
 
