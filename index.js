@@ -10,9 +10,6 @@ function theBeatlesPlay (musicians, instruments){
 
 
 
-
-
-
 function johnLennonFacts(facts){
   var i = 0; 
   var newFacts = [];
@@ -31,10 +28,6 @@ function johnLennonFacts(facts){
 
 
 
-
-
-
-/*
 function iLoveTheBeatles (x){
   var newArray = []; 
   do {newArray.push("I love the Beatles!"); x++}
