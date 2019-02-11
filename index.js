@@ -11,8 +11,8 @@ function theBeatlesPlay (musicians, instruments){
 
 
 function johnLennonFacts(facts){
-  var i = 0; 
   var newFacts = [];
+  var i = 0; 
   while (i < facts.length){
     var random = facts[i] + "!!!";
     newFacts.push(random) 
@@ -27,11 +27,15 @@ function johnLennonFacts(facts){
 
 
 
-
 function iLoveTheBeatles (x){
   var newArray = []; 
   do {newArray.push("I love the Beatles!"); x++}
   while (x < 15 )
 } return newArray
 
-*/
+
+
+
+
+
+
