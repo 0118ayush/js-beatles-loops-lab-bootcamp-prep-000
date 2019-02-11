@@ -12,7 +12,7 @@ var i = 0;
 
 function johnLennonFacts(facts){
   var newFacts = [];
-  while (i <= facts.length){
+  while (i < facts.length){
   var random = facts[i++] + "!!!";
   newFacts.push(random)
   } return newFacts
